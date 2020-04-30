@@ -1,3 +1,3 @@
 # IronyBot
-##What is irony? 
+## What is irony? 
 On the internet, it can be hard for even the most irony-savvy Zoomers to tell what is ironic and what is not ironic. While the sentiment"Things were better back in the old days" is boomer, it characterizes the ironic trend observed amongst the youth today. Unfortunately, it has become less and less common for people to say what they mean, or mean what they say on the internet. Comments are always coated in layers of irony, with mixed responses changing the meaning entirely. In today's world, it's become tedious to decipher what people on the internet actually mean. IronyBot is crafted to reveal the true meaning of a post, and to mathematically cancel out all of the layers of irony following the DeJesus Principle of Irony
